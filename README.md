@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rttndss/AppStat-Lab01/blob/master/Lab01_InfoChem_KTvD.ipynb)
 
+[![Отчёт](https://img.shields.io/badge/%D0%9E%D1%82%D1%87%D1%91%D1%82-HTML-184f95)](https://rttndss.github.io/AppStat-Lab01/)
+
 **Направление:** Инфохимия + Компьютерные технологии в дизайне
 
 **Команда:** ic22
