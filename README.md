@@ -1,5 +1,7 @@
 # Лабораторная работа № 1 по прикладной статистике
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rttndss/AppStat-Lab01/blob/master/Lab01_InfoChem_KTvD.ipynb)
+
 **Направление:** Инфохимия + Компьютерные технологии в дизайне
 
 **Команда:** ic22
