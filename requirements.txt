@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=2.1
+scipy>=1.14
+matplotlib>=3.9
+ipywidgets>=7.7
+requests>=2.31
+jupyterlab>=4.0
+marimo>=0.25
